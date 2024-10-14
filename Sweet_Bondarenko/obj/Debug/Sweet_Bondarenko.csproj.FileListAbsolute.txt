@@ -1,0 +1,32 @@
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.frmMain.resources
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.Properties.Resources.resources
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe.config
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.pdb
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.exe
+C:\Users\Никита\Desktop\9 заняття 22.03.2022 КП\Практика\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.pdb
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe.config
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.pdb
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.frmMain.resources
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.Properties.Resources.resources
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.exe
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.pdb
+C:\Users\Никита\Desktop\Sweet_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.frmInfo.resources
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe.config
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.exe
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\bin\Debug\Sweet_Bondarenko.pdb
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csprojAssemblyReference.cache
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.frmMain.resources
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.frmInfo.resources
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.Properties.Resources.resources
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.GenerateResource.cache
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.csproj.CoreCompileInputs.cache
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.exe
+E:\LIT 21-22\Комп проект\Snacks_Bondarenko\Sweet_Bondarenko\obj\Debug\Sweet_Bondarenko.pdb

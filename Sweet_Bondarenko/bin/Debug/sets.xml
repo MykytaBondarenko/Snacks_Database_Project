@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<Набори>
+<CodeSet>ROSH</CodeSet>
+<SetName>Цукерки &quot;Рошен&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Неперевершений шоколад.</DescriptionSettings>
+<Price>100</Price>
+<Amount>900</Amount>
+<Picture>sets9.jpg</Picture>
+<Цукерки>
+<Code>M04</Code>
+<Name>Чорний шоколад Рошен</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Класичний чорний шоколад</Description>
+<Cost>100</Cost>
+<CodeSet>ROSH</CodeSet>
+<foto>images12.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>MARS</CodeSet>
+<SetName>Солодощі &quot;Марс&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Кожна людина знайде улюблену цукерку серед нескінченного вибору серед солодощів Марс.</DescriptionSettings>
+<Price>150</Price>
+<Amount>400</Amount>
+<Picture>sets2.jpg</Picture>
+<Цукерки>
+<Code>D01</Code>
+<Name>Батончик Twix</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Карамель</GradeFilings>
+<Description>Карамель з печивом в шоколаді.</Description>
+<Cost>25</Cost>
+<CodeSet>MARS</CodeSet>
+<foto>images7.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>D03</Code>
+<Name>Батончик Snickers</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Арахіс</VarietyOfNuts>
+<GradeFilings>Карамельна нуга</GradeFilings>
+<Description>Арахіс в карамелі з карамельною нугою в шоколаді.</Description>
+<Cost>25</Cost>
+<CodeSet>MARS</CodeSet>
+<foto>images8.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M02</Code>
+<Name>Батончик Bounty</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Кокосова</GradeFilings>
+<Description>Кокосова нуга в шоколаді.</Description>
+<Cost>25</Cost>
+<CodeSet>MARS</CodeSet>
+<foto>images9.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M03</Code>
+<Name>Батончик Milky Way</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Молочна</GradeFilings>
+<Description>Молочна начинка в шоколаді.</Description>
+<Cost>25</Cost>
+<CodeSet>MARS</CodeSet>
+<foto>images10.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>W06</Code>
+<Name>Драже Skittles</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Шоколад в кольоровій глазурі.</Description>
+<Cost>50</Cost>
+<CodeSet>MARS</CodeSet>
+<foto>images11.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>NEST</CodeSet>
+<SetName>Солодощі &quot;Nestle&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Нестлє завжди ставить якість перед ціною.</DescriptionSettings>
+<Price>200</Price>
+<Amount>700</Amount>
+<Picture>sets4.jpg</Picture>
+<Цукерки>
+<Code>B02</Code>
+<Name>Драже Smarties</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Шоколад в кольоровій глазурі.</Description>
+<Cost>50</Cost>
+<CodeSet>NEST</CodeSet>
+<foto>images15.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M09</Code>
+<Name>Намазка Nutella</Name>
+<SortChocolate>Намазка</SortChocolate>
+<VarietyOfNuts>Лісовий горіх</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Горіхово шоколадна намазка на печиво та хліб.</Description>
+<Cost>100</Cost>
+<CodeSet>NEST</CodeSet>
+<foto>images16.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M12</Code>
+<Name>Батончик KitKat</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Молочна</GradeFilings>
+<Description>Вафлі з молочним кремом в молочному шоколаді.</Description>
+<Cost>50</Cost>
+<CodeSet>NEST</CodeSet>
+<foto>images17.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>STYM</CodeSet>
+<SetName>Цукерки &quot;Стимул&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Вітчизняні солодощі, які ми любимо з дитинства.</DescriptionSettings>
+<Price>75</Price>
+<Amount>400</Amount>
+<Picture>sets1.jpg</Picture>
+<Цукерки>
+<Code>B03</Code>
+<Name>Стріла Дніпровська</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Коньяк</GradeFilings>
+<Description>Покриті глазур&apos;ю цукерки конусоподібної форми в кульочках з алюмінієвої фольги. Начинка з помадно-кремової маси з додаванням коньяку та спирту.</Description>
+<Cost>50</Cost>
+<CodeSet>STYM</CodeSet>
+<foto>images1.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M01</Code>
+<Name>Ірис Вершковий</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Напівтвердий тиражений молочний ірис, квадратної форми з рифленням на поверхні.</Description>
+<Cost>25</Cost>
+<CodeSet>STYM</CodeSet>
+<foto>images2.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>HERS</CodeSet>
+<SetName>Шоколад &quot;Hershey&apos;s&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Унікальний смак американського шоколаду зацікавить кожного.</DescriptionSettings>
+<Price>150</Price>
+<Amount>500</Amount>
+<Picture>sets3.jpg</Picture>
+<Цукерки>
+<Code>B07</Code>
+<Name>Молочний шоколад Hershey&apos;s</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Молочний шоколад</Description>
+<Cost>80</Cost>
+<CodeSet>HERS</CodeSet>
+<foto>images13.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>D07</Code>
+<Name>Білий шоколад Hershey&apos;s</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Білий шоколад</Description>
+<Cost>70</Cost>
+<CodeSet>HERS</CodeSet>
+<foto>images14.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>KONT</CodeSet>
+<SetName>Солодощі &quot;Конті&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Всі ми куштували печиво Конті та добре знаємо його неперевершений смак.</DescriptionSettings>
+<Price>100</Price>
+<Amount>300</Amount>
+<Picture>sets5.jpg</Picture>
+<Цукерки>
+<Code>B04</Code>
+<Name>Bonjour з манго</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Манго</GradeFilings>
+<Description>Манго з ванільним суфле в шоколаді.</Description>
+<Cost>25</Cost>
+<CodeSet>KONT</CodeSet>
+<foto>images3.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>B05</Code>
+<Name>Печиво-сендвіч Super Kontik з капучино</Name>
+<SortChocolate>Печиво</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Кавова</GradeFilings>
+<Description>Кавовий крем між печивом в шоколаді</Description>
+<Cost>25</Cost>
+<CodeSet>KONT</CodeSet>
+<foto>images4.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M11</Code>
+<Name>Тістечно Тімі з маршмелоу</Name>
+<SortChocolate>Цукерка</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Маршмелоу</GradeFilings>
+<Description>Зефір між бісквітом в шоколаді</Description>
+<Cost>30</Cost>
+<CodeSet>KONT</CodeSet>
+<foto>images5.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M13</Code>
+<Name>Батончик Джек</Name>
+<SortChocolate>Вафлі</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Молочна</GradeFilings>
+<Description>Вафлі з молочним кремом в шоколаді</Description>
+<Cost>20</Cost>
+<CodeSet>KONT</CodeSet>
+<foto>images6.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>CHEE</CodeSet>
+<SetName>Чипси &quot;Cheetos&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Смачні сирні снеки.</DescriptionSettings>
+<Price>200</Price>
+<Amount>700</Amount>
+<Picture>sets16.jpg</Picture>
+<Цукерки>
+<Code>M06</Code>
+<Name>Crunchy Cheetos</Name>
+<SortChocolate>Кукурудзяні палички</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Курудзяні хрусткі палички зі смаком сиру.</Description>
+<Cost>75</Cost>
+<CodeSet>CHEE</CodeSet>
+<foto>images36.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M07</Code>
+<Name>Cheetos Puffs</Name>
+<SortChocolate>Кукурудзяні палички</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Кукурудзяні повятряні палички зі смаком сиру.</Description>
+<Cost>50</Cost>
+<CodeSet>CHEE</CodeSet>
+<foto>images37.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>W03</Code>
+<Name>Flamin&apos; Hot Cheetos</Name>
+<SortChocolate>Кукурудзяні палички</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Гострі кукурудзяні хрустки палички зі смаком сиру.</Description>
+<Cost>75</Cost>
+<CodeSet>CHEE</CodeSet>
+<foto>images38.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>MAND</CodeSet>
+<SetName>Шоколад &quot;M&amp;M&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Шоколад у найкращій формі для перекусу.</DescriptionSettings>
+<Price>150</Price>
+<Amount>400</Amount>
+<Picture>sets6.jpg</Picture>
+<Цукерки>
+<Code>F01</Code>
+<Name>Драже M&amp;M</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Шоколад в кольоровій глазурі.</Description>
+<Cost>45</Cost>
+<CodeSet>MAND</CodeSet>
+<foto>images22.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>F02</Code>
+<Name>Драже M&amp;M з арахісом</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Арахіс</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Шоколад з арахісом в кольоровій глазурі.</Description>
+<Cost>105</Cost>
+<CodeSet>MAND</CodeSet>
+<foto>images23.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>KELL</CodeSet>
+<SetName>Хлоп&apos;я &quot;Kellogg&apos;s&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Улюблений завтрак багатьох.</DescriptionSettings>
+<Price>250</Price>
+<Amount>200</Amount>
+<Picture>sets13.jpg</Picture>
+<Цукерки>
+<Code>B06</Code>
+<Name>Kellogg&apos;s Corn Flakes</Name>
+<SortChocolate>Хлоп&apos;я</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Кукурузні хлоп&apos;я.</Description>
+<Cost>250</Cost>
+<CodeSet>KELL</CodeSet>
+<foto>images26.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>CHUP</CodeSet>
+<SetName>Цукерки &quot;Chupa Chups&quot;</SetName>
+<Weiqht>375</Weiqht>
+<DescriptionSettings>Карамель на палочці з різними наповнювачими.</DescriptionSettings>
+<Price>100</Price>
+<Amount>500</Amount>
+<Picture>sets12.jpg</Picture>
+<Цукерки>
+<Code>D11</Code>
+<Name>Карамель Чупа-Чупс з яблуком</Name>
+<SortChocolate>Карамель</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Яблучна</GradeFilings>
+<Description>Яблучна карамель з яблучною начинкою.</Description>
+<Cost>50</Cost>
+<CodeSet>CHUP</CodeSet>
+<foto>images24.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>W01</Code>
+<Name>Карамель Чупа-Чупс з вишнею</Name>
+<SortChocolate>Карамель</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Вишнева</GradeFilings>
+<Description>Вишнева карамель з вишневою начинкою.</Description>
+<Cost>50</Cost>
+<CodeSet>CHUP</CodeSet>
+<foto>images25.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>DORI</CodeSet>
+<SetName>Чипси &quot;Doritos&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Кращі кукурузні трикутні чипси.</DescriptionSettings>
+<Price>150</Price>
+<Amount>500</Amount>
+<Picture>sets15.jpg</Picture>
+<Цукерки>
+<Code>D04</Code>
+<Name>Doritos Nacho Cheese</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком сиру.</Description>
+<Cost>50</Cost>
+<CodeSet>DORI</CodeSet>
+<foto>images33.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M17</Code>
+<Name>Doritos Cool</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком солі.</Description>
+<Cost>50</Cost>
+<CodeSet>DORI</CodeSet>
+<foto>images34.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M18</Code>
+<Name>Doritos Flamin&apos; Hot</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Гострі чіпси зі смаком сиру.</Description>
+<Cost>50</Cost>
+<CodeSet>DORI</CodeSet>
+<foto>images35.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>LAYS</CodeSet>
+<SetName>Чипси &quot;Lays&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Кращі снеки для перекусу в бюджетному сегменті.</DescriptionSettings>
+<Price>100</Price>
+<Amount>300</Amount>
+<Picture>sets7.jpg</Picture>
+<Цукерки>
+<Code>B08</Code>
+<Name>Чіпси Лейз з сіллю</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком солі.</Description>
+<Cost>25</Cost>
+<CodeSet>LAYS</CodeSet>
+<foto>images27.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>D06</Code>
+<Name>Чіпси Лейз з паприкою</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком паприки.</Description>
+<Cost>25</Cost>
+<CodeSet>LAYS</CodeSet>
+<foto>images28.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M14</Code>
+<Name>Чіпси Лейз з сиром</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком сиру.</Description>
+<Cost>25</Cost>
+<CodeSet>LAYS</CodeSet>
+<foto>images29.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M16</Code>
+<Name>Чіпси Лейз с луком</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком луку.</Description>
+<Cost>25</Cost>
+<CodeSet>LAYS</CodeSet>
+<foto>images30.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>LUXE</CodeSet>
+<SetName>Чипси &quot;Люкс&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Вітчизняні чипси, що нічим не гірші за своїх конкурентів.</DescriptionSettings>
+<Price>75</Price>
+<Amount>500</Amount>
+<Picture>sets14.jpg</Picture>
+<Цукерки>
+<Code>D08</Code>
+<Name>Чіпси Люкс з паприкою</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси зі смаком паприки.</Description>
+<Cost>75</Cost>
+<CodeSet>LUXE</CodeSet>
+<foto>images32.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>CADB</CodeSet>
+<SetName>Шоколад &quot;Cadbury&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Смачний шоколад.</DescriptionSettings>
+<Price>200</Price>
+<Amount>200</Amount>
+<Picture>sets8.jpg</Picture>
+<Цукерки>
+<Code>M05</Code>
+<Name>Cadbury Dairy Milk</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Молочний шоколад.</Description>
+<Cost>200</Cost>
+<CodeSet>CADB</CodeSet>
+<foto>images31.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>PRIN</CodeSet>
+<SetName>Чіпси &quot;Pringles&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Смачні чипси в зручній формі.</DescriptionSettings>
+<Price>300</Price>
+<Amount>700</Amount>
+<Picture>sets17.jpg</Picture>
+<Цукерки>
+<Code>D09</Code>
+<Name>Original Pringles</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси Прінґлз зі смаком солі.</Description>
+<Cost>150</Cost>
+<CodeSet>PRIN</CodeSet>
+<foto>images39.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M10</Code>
+<Name>Cheese Pringles</Name>
+<SortChocolate>Чіпси</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Чіпси Прінґлз зі смаком сиру.</Description>
+<Cost>150</Cost>
+<CodeSet>PRIN</CodeSet>
+<foto>images40.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>DUNK</CodeSet>
+<SetName>Пончики &quot;Dunkin&apos; Donuts&quot;</SetName>
+<Weiqht>250</Weiqht>
+<DescriptionSettings>Смачні пончики, начинку яких можна вибрати самому.</DescriptionSettings>
+<Price>250</Price>
+<Amount>300</Amount>
+<Picture>sets18.jpg</Picture>
+<Цукерки>
+<Code>D02</Code>
+<Name>Пончики звичайні</Name>
+<SortChocolate>Пончики</SortChocolate>
+<VarietyOfNuts>Мигдаль</VarietyOfNuts>
+<GradeFilings>Ванільна</GradeFilings>
+<Description>Пончики з ванільною начинкою та шоколадною глазур&apos;ю з мигдалем</Description>
+<Cost>250</Cost>
+<CodeSet>DUNK</CodeSet>
+<foto>images41.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>MILK</CodeSet>
+<SetName>Шоколад &quot;Milka&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Найкращий молочний шоколад за думки суспільства.</DescriptionSettings>
+<Price>175</Price>
+<Amount>400</Amount>
+<Picture>sets10.jpg</Picture>
+<Цукерки>
+<Code>M08</Code>
+<Name>Молочний шоколад Мілка</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Молочний шоколад Мілка.</Description>
+<Cost>75</Cost>
+<CodeSet>MILK</CodeSet>
+<foto>images18.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>M15</Code>
+<Name>Молочний шоколад Мілка з печивом</Name>
+<SortChocolate>Шоколад</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Печиво</GradeFilings>
+<Description>Молочний шоколад Мілка з вкрапленням печива.</Description>
+<Cost>100</Cost>
+<CodeSet>MILK</CodeSet>
+<foto>images19.jpg</foto>
+</Цукерки>
+</Набори>
+<Набори>
+<CodeSet>HARI</CodeSet>
+<SetName>Цукерки &quot;Haribo&quot;</SetName>
+<Weiqht>500</Weiqht>
+<DescriptionSettings>Желейні цукерки з натуральних інгрідієнтів.</DescriptionSettings>
+<Price>200</Price>
+<Amount>200</Amount>
+<Picture>sets11.jpg</Picture>
+<Цукерки>
+<Code>B01</Code>
+<Name>Haribo Goldbaren</Name>
+<SortChocolate>Желейні цукерки</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Желейні кольорові медведики Харібо.</Description>
+<Cost>100</Cost>
+<CodeSet>HARI</CodeSet>
+<foto>images20.jpg</foto>
+</Цукерки>
+<Цукерки>
+<Code>W02</Code>
+<Name>Haribo Starmix</Name>
+<SortChocolate>Желейні цукерки</SortChocolate>
+<VarietyOfNuts>Немає</VarietyOfNuts>
+<GradeFilings>Немає</GradeFilings>
+<Description>Найкращі цукерки Харібо в одній упаковці.</Description>
+<Cost>100</Cost>
+<CodeSet>HARI</CodeSet>
+<foto>images21.jpg</foto>
+</Цукерки>
+</Набори>
+</dataroot>
